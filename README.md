@@ -18,7 +18,7 @@
 | grep -c "[WW]ord" | Count the occurrence of 'W/word' | grep -c "[WW]ord" File1.txt |
 
 
-### SED
+## **SED**
 
 
 | Code/ Symbol	| Command/ Elaboration |	Function/ Example |
@@ -28,7 +28,7 @@
 | sed 's/Find/Replace/g' File.txt | Find and replace | sed 's/Ishmael/Dave/g' File1.txt; "Ishmael" replaced by "Dave" |
                                                       
 
-### AWK
+## **AWK**
 
 
 | Code/ Symbol	| Command/ Elaboration |	Function/ Example |
