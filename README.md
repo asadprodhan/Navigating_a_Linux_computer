@@ -41,6 +41,22 @@ Figure 1: MobaXterm.
 
 <br />
 
+#### **Q: How to transfer data between a remote computer and your local laptop?**
+
+
+Option 1: Drag and drop using the left panel of your MobaXterm
+
+
+Option 2: sftp
+- sftp username@remote_host:/destination_directory 
+- ‘put -r’ to transfer data from local to remote
+- ‘put -ar’ to transfer data that failed in the first attempt
+- ‘get -r’ to transfer from remote to local
+
+
+<br />
+
+
 ## **GREP**
 
 
