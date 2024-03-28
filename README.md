@@ -4,6 +4,21 @@
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
 <br />
 
+<br />
+<p align="center">
+  <img 
+    width="795"
+    height="397"
+    src=" https://github.com/asadprodhan/Navigating_a_Linux_computer/blob/main/MobaXterm.png"
+  >
+</p>
+
+<p align = "center">
+Figure 1. MobaXterm
+</p>
+
+
+
 
 ## **GREP**
 
