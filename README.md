@@ -77,11 +77,11 @@
  ## **TMUX**
 
 
-| Code/Symbol	| Function/Example |	
-|----------:|:----------|
-| tmux > press enter | start tmux session |
-| Ctrl-b d | detach from the tmux session and return to your regular terminal. The session will continue running in the background |
-| tmux list | list all the active tmux sessions. Left-hand column shows the session numbers |
-| tmux attach -t 1 | logging in into tmux session 1 |
+| Code/Symbol            | Function/Example |	
+|----------:             |:----------|
+| tmux > press enter     | start tmux session |
+| Ctrl-b d               | detach from the tmux session and return to your regular terminal. The session will continue running in the background |
+| tmux list              | list all the active tmux sessions. Left-hand column shows the session numbers |
+| tmux attach -t 1       | logging in into tmux session 1 |
 | tmux kill-session -t 1 | terminating tmux session 1 | 
 
