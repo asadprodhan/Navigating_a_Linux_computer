@@ -34,6 +34,13 @@ Figure 1: MobaXterm.
 <br />
 
 
+#### **Q: How to enable sftp on the sidebar in the MobaXterm?**
+
+
+- Go to MobaXterm Session settings > SSH > Fill up Remote host > Specify username > Select ‘SFTP protocol’ from the ‘SSH-browser type’ drop down menu 
+
+<br />
+
 ## **GREP**
 
 
