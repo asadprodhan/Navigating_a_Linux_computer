@@ -63,3 +63,16 @@
 | Ctrl+W | Search for words |
 
 
+## **PUTTY**
+
+
+| Code/Symbol	| Function/Example |	
+|----------:|:----------|
+| psftp> get -r * | download one file |
+| psftp> mget -r * | download multiple files |
+| psftp> put -r * | upload one file |
+| psftp> mput -r * | upload multiple files |
+	
+	
+
+
