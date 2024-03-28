@@ -5,17 +5,19 @@
 <br />
 
 <br />
+
 <p align="center">
   <img 
-    width="795"
-    height="397"
-    src=" https://github.com/asadprodhan/Navigating_a_Linux_computer/blob/main/MobaXterm.png"
-  >
+    src=" https://github.com/asadprodhan/Navigating_a_Linux_computer/blob/main/MobaXterm.png "
+ align="center" width=60% height=60% >   
+</p>
+<p align = center>
+Figure 1: Search your organism in the NCBI database.
 </p>
 
-<p align = "center">
-Figure 1. MobaXterm
-</p>
+
+<br />
+
 
 
 
