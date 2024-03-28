@@ -2,15 +2,31 @@
 
 
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
+
+
 <br />
 
 
-<p align="center">
+#### **Q: How to use my Linux computer remotely?**
+
+
+- Open a ssh client. For example, MobaXterm
+- Click on ‘Session’ located at top-left corner
+- Fill up the following boxes and click ‘OK’:
+	- Remote host
+  	- Specify username
+  	- SSH-browser type as SFTP protocol
+
+
+<br />
+
+
+<p align="left">
   <img 
     src="https://github.com/asadprodhan/Navigating_a_Linux_computer/blob/main/MobaXterm.png"
  align="center" width=60% height=60% >   
 </p>
-<p align = center>
+<p align = left>
 Figure 1: MobaXterm.
 </p>
 
