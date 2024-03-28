@@ -39,4 +39,27 @@
 | awk '{print $3,"\t"$3+1}' | Print third column and add 1 with all row values | awk '{print $3,"\t"$3+1}' File.tsv | 
 
 
+## **CUT**
+
+
+| Code/ Symbol	| Command/ Elaboration |	Function/ Example |
+|----------:|:----------|:----------|
+| cut -f1,2,3,4,5,7 | Subset columns 1-5, 7 | cut -f1,2,3,4,5,7 File1.txt	
+
+
+## **NANO**
+
+
+| Code/Symbol	| Function/Example |	
+|----------:|:----------|
+| alt+sht+$	| wraps lines |
+| alt+sht+y	| highlights syntex |
+| alt+sht+#	| puts line number |
+| fg | to return to nano |
+| ctrl+K | deletes entire line |
+| ctrl+A | moves the cursor at the beginning of the line |
+| ctrl+E or Alt+/ | moves the cursor at the end of the line |
+| Ctrl+Shift+- 7406148 | Jump to line number 7406148 |
+| Ctrl+W | Search for words |
+
 
