@@ -1,8 +1,7 @@
-# Navigating a Linux computer
+# **Navigating a Linux computer** <br />
 
 
-### GREP
-
+## **GREP**
 
 
 | Code/ Symbol	| Command/ Elaboration |	Function/ Example |
