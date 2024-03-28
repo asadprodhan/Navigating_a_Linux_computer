@@ -1,6 +1,10 @@
 # **Navigating a Linux computer** <br />
 
 
+### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
+<br />
+
+
 ## **GREP**
 
 
