@@ -62,7 +62,7 @@ Option 2: sftp
 
 | Code/ Symbol	| Command/ Elaboration |	Function/ Example |
 |:----------|:----------|:----------|
-| grep | Search text | grep 'salmon' File.tsv > FileSalmon.tsv |
+| grep | Search and print lines containing a word | grep 'salmon' File.tsv > FileSalmon.tsv |
 | grep --color | Search text | grep --color "Lunch" File1.txt |
 | grep --color -A 2 "word" | Print 2 lines after the match |	grep --color -A 2 "word" File1.txt |
 | grep --color -B 2 "word" | Print 2 lines before the match | grep --color -B 2 "word" File1.txt |
