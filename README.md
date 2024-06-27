@@ -1,7 +1,12 @@
 # **Navigating a Linux computer** <br />
 
 
+<br />
+
+
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
+
+[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/Navigating_a_Linux_computer#GPL-3.0-1-ov-file)
 
 
 <br />
@@ -21,12 +26,12 @@
 <br />
 
 
-<p align="left">
+<p align="center">
   <img 
     src="https://github.com/asadprodhan/Navigating_a_Linux_computer/blob/main/MobaXterm.png"
  align="center" width=60% height=60% >   
 </p>
-<p align = left>
+<p align = center>
 Figure 1: MobaXterm.
 </p>
 
