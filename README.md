@@ -92,6 +92,12 @@ Check your current location
 pwd
 ```
 
+See what you have in your current location
+
+```
+ls
+```
+
 Create a new directory called 'practice'
 
 ```
