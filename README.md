@@ -1,6 +1,6 @@
 <h1 align="center">Navigating a Linux computer</h1>
 
-<h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup></h3>
+<h3 align="center">Asad Prodhan<sup>*</sup></h3>
 
 
 <div align="center"><b> DPIRD Diagnostics and Laboratory Services, Department of Primary Industries and Regional Development </b></div>
