@@ -1,9 +1,12 @@
-<h1 align="center">Navigating a Linux computer</h1>
+<h1 align="center">Navigating a Linux Computer</h1>
 
 <h3 align="center">Asad Prodhan<sup>*</sup></h3>
 
 
-<div align="center"><b> DPIRD Diagnostics and Laboratory Services, Department of Primary Industries and Regional Development </b></div>
+<div align="center"><b> DPIRD Diagnostics and Laboratory Services </b></div>
+
+
+<div align="center"><b> Department of Primary Industries and Regional Development </b></div>
 
 
 <div align="center"><b> 3 Baron-Hay Court, South Perth, WA 6151, Australia </b></div>
@@ -72,6 +75,226 @@ Option 2: sftp
 
 
 <br />
+
+
+# 🐧 Linux Usage Exercise for New User
+
+Welcome to Linux training! This brief guide will help you get started with essential Linux commands and concepts.
+
+
+### 📁 1. Working with Directories
+
+Check your current location
+
+```
+pwd
+```
+
+Create a new directory called 'practice'
+
+```
+mkdir practice
+```
+
+Move into the directory
+
+```
+cd practice
+```
+
+Create nested directories
+
+```
+mkdir -p projects/scripts
+```
+
+Go up one directory
+
+```
+cd ..
+```
+
+
+### 📄 2. Working with Files
+
+Create a new text file
+
+```
+echo "Hello, Linux!" > hello.txt
+```
+
+View the content
+
+```
+cat hello.txt
+```
+
+Copy the file
+
+```
+cp hello.txt hello_backup.txt
+```
+
+Rename the file
+
+```
+mv hello.txt greetings.txt
+```
+
+Delete the backup
+
+```
+rm hello_backup.txt
+```
+
+
+### 🔍 3. Viewing and Searching
+
+
+View contents of a file
+
+```
+less greetings.txt
+```
+
+Search inside the file
+
+```
+grep "Hello" greetings.txt
+```
+
+List files with details
+
+```
+ls -lh
+```
+
+### 👥 4. User and Permissions
+
+
+Check who you are
+
+```
+whoami
+```
+
+See your groups
+
+```
+groups
+```
+
+Check file permissions
+
+```
+ls -l greetings.txt
+```
+
+Change permissions (read/write for user only)
+
+```
+chmod +x greetings.txt
+```
+
+Or,
+
+```
+chmod +x *
+```
+
+### ⚙️ 5. System Information and Help
+
+
+View disk usage
+
+```
+df -h
+```
+
+See memory usage
+
+```
+free -h
+```
+
+View running processes
+
+
+```
+top
+```
+
+Get help on commands
+
+
+```
+man ls
+```
+
+
+### 🧑‍💻 6. Sudo and Package Installation
+
+
+Update package list 
+
+```
+sudo apt update
+```
+
+Install a basic tool (example: tree)
+
+
+```
+sudo apt install tree
+```
+
+Use the installed tool
+
+
+```
+tree
+```
+
+
+### ✅ 7. Bonus: Create a Simple Script
+
+
+Create a script file
+
+```
+nano say_hello.sh
+```
+
+Paste the following content into the file:
+
+
+```
+#!/bin/bash
+echo "Hello, $USER! Today is $(date)."
+```
+
+Then run:
+
+
+Make it executable
+
+```
+chmod +x say_hello.sh
+```
+
+Execute the script
+
+
+```
+./say_hello.sh
+```
+
+
+
+### 🚀 You're Ready!
+
+You've just taken your first steps into Linux! Continue experimenting using the following Linux commands to explore further
+
 
 
 ## **GREP**
