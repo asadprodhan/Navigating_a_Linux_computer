@@ -27,7 +27,7 @@
 <br />
 
 
-#### **Q: How to use my Linux computer remotely?**
+### **Q: How to use my Linux computer remotely?**
 
 
 - Open a ssh client. For example, MobaXterm
@@ -54,14 +54,14 @@ Figure 1: MobaXterm.
 <br />
 
 
-#### **Q: How to enable sftp on the sidebar in the MobaXterm?**
+### **Q: How to enable sftp on the sidebar in the MobaXterm?**
 
 
 - Go to MobaXterm Session settings > SSH > Fill up Remote host > Specify username > Select ‘SFTP protocol’ from the ‘SSH-browser type’ drop down menu 
 
 <br />
 
-#### **Q: How to transfer data between a remote computer and your local laptop?**
+### **Q: How to transfer data between a remote computer and your local laptop?**
 
 
 Option 1: Drag and drop using the left panel of your MobaXterm
@@ -80,6 +80,8 @@ Option 2: sftp
 # 🐧 Linux Usage Exercise for New User
 
 Welcome to Linux training! This brief guide will help you get started with essential Linux commands and concepts.
+
+<br />
 
 
 ### 📁 1. Working with Directories
@@ -114,6 +116,8 @@ Go up one directory
 cd ..
 ```
 
+<br />
+
 
 ### 📄 2. Working with Files
 
@@ -147,6 +151,8 @@ Delete the backup
 rm hello_backup.txt
 ```
 
+<br />
+
 
 ### 🔍 3. Viewing and Searching
 
@@ -168,6 +174,10 @@ List files with details
 ```
 ls -lh
 ```
+
+
+<br />
+
 
 ### 👥 4. User and Permissions
 
@@ -202,6 +212,9 @@ Or,
 chmod +x *
 ```
 
+<br />
+
+
 ### ⚙️ 5. System Information and Help
 
 
@@ -231,6 +244,8 @@ Get help on commands
 man ls
 ```
 
+<br />
+
 
 ### 🧑‍💻 6. Sudo and Package Installation
 
@@ -255,8 +270,10 @@ Use the installed tool
 tree
 ```
 
+<br />
 
-### ✅ 7. Bonus: Create a Simple Script
+
+### ✅ 7. Create a Simple Script
 
 
 Create a script file
@@ -296,6 +313,8 @@ Execute the script
 You've just taken your first steps into Linux! Continue experimenting using the following Linux commands to explore further
 
 
+<br />
+
 
 ## **GREP**
 
@@ -311,6 +330,8 @@ You've just taken your first steps into Linux! Continue experimenting using the 
 | grep -c "[WW]ord" | Count the occurrence of 'W/word' | grep -c "[WW]ord" File1.txt |
 
 
+<br />
+
 ## **SED**
 
 
@@ -320,6 +341,9 @@ You've just taken your first steps into Linux! Continue experimenting using the 
 | sed -n 3-5p | Extract the 3rd to 5th lines | sed -n 3-5p File1.txt |
 | sed 's/Find/Replace/g' File.txt | Find and replace | sed 's/Ishmael/Dave/g' File1.txt; "Ishmael" replaced by "Dave" |
                                                       
+
+<br />
+
 
 ## **AWK**
 
@@ -332,6 +356,8 @@ You've just taken your first steps into Linux! Continue experimenting using the 
 | awk '{print $3,"\t"$3+1}' | Print third column and add 1 with all row values | awk '{print $3,"\t"$3+1}' File.tsv | 
 
 
+<br />
+
 ## **CUT**
 
 
@@ -339,6 +365,7 @@ You've just taken your first steps into Linux! Continue experimenting using the 
 |:----------|:----------|:----------|
 | cut -f1,2,3,4,5,7 | Subset columns 1-5, 7 | cut -f1,2,3,4,5,7 File1.txt	
 
+<br />
 
 ## **NANO**
 
@@ -355,6 +382,7 @@ You've just taken your first steps into Linux! Continue experimenting using the 
 | Ctrl+Shift+- 7406148 | Jump to line number 7406148 |
 | Ctrl+W | Search for words |
 
+<br />
 
 ## **PUTTY**
 
@@ -366,6 +394,8 @@ You've just taken your first steps into Linux! Continue experimenting using the 
 | psftp> put -r * | upload one file |
 | psftp> mput -r * | upload multiple files |
 	
+
+<br />
 
  ## **TMUX**
 
