@@ -84,7 +84,7 @@ Welcome to Linux training! This brief guide will help you get started with essen
 <br />
 
 
-### 📁 1. Working with Directories
+### 📁 1. Working with Directories (i.e. Folders)
 
 Check your current location
 
